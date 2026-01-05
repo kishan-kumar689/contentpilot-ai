@@ -1,5 +1,6 @@
 
 import streamlit as st
+st.set_page_config(page_title="ContentPilot AI", layout="wide")
 st.write("✅ NEW VERSION LOADED - 2026-01-05")
 import pandas as pd
 import numpy as np
